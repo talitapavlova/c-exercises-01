@@ -1,3 +1,5 @@
+
+#define F_CPU 10000000L
 #include <avr/io.h>
 
 

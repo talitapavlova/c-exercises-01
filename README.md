@@ -13,4 +13,4 @@ Commit your solution at the end of each exercise.*
     (commit changes when done)
 
 1. Modify the program so that the led is turned on and off continuously with a delay of 500 ms.  
-    Hint: you can use `__delay_ms()` defined in `avr/util.h` (`#include <avr/util.h>`)  
+    Hint: you can use `__delay_ms(double _ms)` defined in `util/delay.h` (`#include <util/delay.h>`)  
