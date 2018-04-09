@@ -33,7 +33,7 @@ Pseudocode for finding primes:
                     n is prime
     ```
 
-1. Change the program so that a new prime only displayed when you press a button.
+1. Change the program so that a new prime is displayed only when a button is pressed.
 
 1. Write a timer application for the STK600 board. The timer should be able to count down from 255 seconds displaying a recognizable flashing pattern on the leds when done. Use the buttons to control the timer.  
 
@@ -47,4 +47,3 @@ Pseudocode for finding primes:
     * Non-functional requirements
         * you should use functions wherever possible to abstract away the details of your program. I would expect to se functions for manipulating the time (like increment and decrement time), controlling the timer (start, stop, reset) and for input and output (like getting input and displaying numbers and patterns)
         * the variable you will use to store the time should not be global but provided to functions by reference (pointer).
-        
