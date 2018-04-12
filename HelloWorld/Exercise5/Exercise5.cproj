@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>7.0</ProjectVersion>
     <ToolchainName>com.Atmel.AVRGCC8.C</ToolchainName>
-    <ProjectGuid>{74943ff3-0459-4990-aa13-671764d3793f}</ProjectGuid>
+    <ProjectGuid>{4c258148-46df-44b5-96f3-563ed5457131}</ProjectGuid>
     <avrdevice>ATmega2560</avrdevice>
     <avrdeviceseries>none</avrdeviceseries>
     <OutputType>Executable</OutputType>
@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>LightsInRow</AssemblyName>
-    <Name>LightsInRow</Name>
-    <RootNamespace>LightsInRow</RootNamespace>
+    <AssemblyName>Exercise5</AssemblyName>
+    <Name>Exercise5</Name>
+    <RootNamespace>Exercise5</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>

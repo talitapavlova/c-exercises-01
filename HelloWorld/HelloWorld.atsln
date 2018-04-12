@@ -7,6 +7,8 @@ Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LightsInRow", "LightsInRow\LightsInRow.cproj", "{74943FF3-0459-4990-AA13-671764D3793F}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Exercise5", "Exercise5\Exercise5.cproj", "{4C258148-46DF-44B5-96F3-563ED5457131}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -21,6 +23,10 @@ Global
 		{74943FF3-0459-4990-AA13-671764D3793F}.Debug|AVR.Build.0 = Debug|AVR
 		{74943FF3-0459-4990-AA13-671764D3793F}.Release|AVR.ActiveCfg = Release|AVR
 		{74943FF3-0459-4990-AA13-671764D3793F}.Release|AVR.Build.0 = Release|AVR
+		{4C258148-46DF-44B5-96F3-563ED5457131}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4C258148-46DF-44B5-96F3-563ED5457131}.Debug|AVR.Build.0 = Debug|AVR
+		{4C258148-46DF-44B5-96F3-563ED5457131}.Release|AVR.ActiveCfg = Release|AVR
+		{4C258148-46DF-44B5-96F3-563ED5457131}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
